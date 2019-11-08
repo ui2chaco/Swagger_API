@@ -24,11 +24,11 @@ import javax.validation.Valid;
 import javax.validation.constraints.*;
 import java.util.List;
 import java.util.Map;
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.SpringCodegen", date = "2019-11-08T07:59:24.757Z[GMT]")
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.SpringCodegen", date = "2019-11-08T08:15:54.133Z[GMT]")
 @Api(value = "omm", description = "the omm API")
 public interface OmmApi {
 
-    @ApiOperation(value = "Search order information TEST", nickname = "ommOrdersGet", notes = "", response = OrderModel.class, responseContainer = "List", tags={ "Order Module", })
+    @ApiOperation(value = "Search order information", nickname = "ommOrdersGet", notes = "", response = OrderModel.class, responseContainer = "List", tags={ "Order Module", })
     @ApiResponses(value = { 
         @ApiResponse(code = 200, message = "Successfully returned an order", response = OrderModel.class, responseContainer = "List"),
         @ApiResponse(code = 400, message = "Invalid request", response = ErrorModel.class) })
