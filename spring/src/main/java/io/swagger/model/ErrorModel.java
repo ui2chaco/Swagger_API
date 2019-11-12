@@ -13,7 +13,7 @@ import javax.validation.constraints.*;
  * ErrorModel
  */
 @Validated
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.SpringCodegen", date = "2019-11-12T08:36:32.727Z[GMT]")
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.SpringCodegen", date = "2019-11-12T08:42:25.363Z[GMT]")
 public class ErrorModel   {
   @JsonProperty("code")
   private Integer code = null;

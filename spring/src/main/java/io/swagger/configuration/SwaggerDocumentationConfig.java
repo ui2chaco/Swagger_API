@@ -10,14 +10,14 @@ import springfox.documentation.service.Contact;
 import springfox.documentation.spi.DocumentationType;
 import springfox.documentation.spring.web.plugins.Docket;
 
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.SpringCodegen", date = "2019-11-12T08:36:32.727Z[GMT]")
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.SpringCodegen", date = "2019-11-12T08:42:25.363Z[GMT]")
 @Configuration
 public class SwaggerDocumentationConfig {
 
     ApiInfo apiInfo() {
         return new ApiInfoBuilder()
             .title("Salesforce Commerce Cloud OMS")
-            .description("Salesforce Commerce Cloud OMS API")
+            .description("Salesforce Commerce Cloud OMS API test")
             .license("")
             .licenseUrl("http://unlicense.org")
             .termsOfServiceUrl("")
