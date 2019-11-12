@@ -26,7 +26,7 @@ import org.threeten.bp.OffsetDateTime;
  * 注文情報
  */
 @Schema(description = "注文情報")
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-11-12T08:44:52.628Z[GMT]")
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.JavaClientCodegen", date = "2019-11-12T08:45:31.599Z[GMT]")
 public class OrderModel {
   @SerializedName("orderId")
   private String orderId = null;

@@ -2,7 +2,7 @@
 
 Salesforce Commerce Cloud OMS
 - API version: 1.0.0
-  - Build date: 2019-11-12T08:44:52.628Z[GMT]
+  - Build date: 2019-11-12T08:45:31.599Z[GMT]
 
 Salesforce Commerce Cloud OMS API test
 
